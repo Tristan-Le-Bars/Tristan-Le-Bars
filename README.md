@@ -18,14 +18,14 @@
     <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/> </a>   
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
      <a href="https://numpy.org/" target="_blank"> <img src="https://imgs.search.brave.com/aI5v-WAZu_8LW6dGyQVIOGalAr3psLQN69nVt7TK0h8/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzMS5naXRodWJ1/c2VyY29udGVudC5j/b20vdS8yODgyNzY_/cz00MDAmdj00" alt="express" width="44" height="44" / > </a>
-    <a href="https://matplotlib.org/" target="_blank"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="express" width="44" height="44"/> </a>  
+    <a href="https://matplotlib.org/" target="_blank"> <img src="https://imgs.search.brave.com/pCMuHD3VpRdr9nu0s3LaZOQ-k19xIWuBM6msms9E8OI/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL00vbWF0cGxv/dGxpYi1sb2dvLTc2/NzY4NzBBQzAtc2Vl/a2xvZ28uY29tLnBu/Zw" alt="express" width="44" height="44"/> </a>  
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a>
 </p>
 
   ## 🛠️ Tools and softwares:
 
 <p align="left">
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://imgs.search.brave.com/-zc1381Xm8A_E-u6ZEqBDmViBG6fHamJ-oQ5zzC3zUo/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vZXhpdGNv/bmRpdGlvbi5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MDgvanVweXRlci1t/YWluLWxvZ28ucG5n/P3NzbD0x" alt="express" width="44" height="44"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
