@@ -4,9 +4,9 @@
   ## 🔥 Languages:
 
 <p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a>  
+    <code><img title="¨Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python.png" /></code>
+    <code><img title="C" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+    <code><img title="CPP" alt="CPP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><code>   
 </p>
 
 
@@ -22,7 +22,22 @@
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a>
 </p>
 
+  ## 🛠️ Tools and softwares:
+
+<p align="left"> 
+    <code><img title="Windows" alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+    <code><img title="Linux" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+    <code><img title="Ubuntu" alt="Ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+    <code><img title="VSCode" alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+    <code><img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code> 
+</p>
 
 
-| <a href="https://github.com/Tristan-Le-Bars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tristan-Le-Bars&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tristan-Le-Bars's github stats" /></a> | <a href="https://github.com/Tristan-Le-Bars"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Le-Bars&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 📊 Stats
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Le-Bars&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Tristan-Le-Bars&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide=prs)
+
+</div>
