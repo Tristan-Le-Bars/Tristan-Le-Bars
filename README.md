@@ -6,7 +6,7 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a> 
+    <a href="https://fr.wikipedia.org/wiki/C++" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" alt="express" width="51" height="51" /> </a> 
 </p>
 
 
@@ -34,3 +34,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Le-Bars&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tristan-Le-Bars&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide=prs)
+
