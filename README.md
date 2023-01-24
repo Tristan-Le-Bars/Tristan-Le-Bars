@@ -4,9 +4,9 @@
   ## 🔥 Languages:
 
 <p align="left"> 
-    <code><img title="¨Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python.png" /></code>
-    <code><img title="C" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-    <code><img title="CPP" alt="CPP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><code>   
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a> 
 </p>
 
 
@@ -24,20 +24,13 @@
 
   ## 🛠️ Tools and softwares:
 
-<p align="left"> 
-    <code><img title="Windows" alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-    <code><img title="Linux" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-    <code><img title="Ubuntu" alt="Ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-    <code><img title="VSCode" alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-    <code><img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code> 
+<p align="left">
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 
 ## 📊 Stats
 
-<div align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Le-Bars&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tristan-Le-Bars&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide=prs)
-
-</div>
