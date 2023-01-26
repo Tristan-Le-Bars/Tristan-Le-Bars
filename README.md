@@ -25,6 +25,7 @@
   ## 🛠️ Tools and softwares:
 
 <p align="left">
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png" alt="express" width="44" height="44"/> </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://imgs.search.brave.com/-zc1381Xm8A_E-u6ZEqBDmViBG6fHamJ-oQ5zzC3zUo/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vZXhpdGNv/bmRpdGlvbi5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MDgvanVweXRlci1t/YWluLWxvZ28ucG5n/P3NzbD0x" alt="express" width="44" height="44"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
