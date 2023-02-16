@@ -34,8 +34,7 @@
   ## 📖 Education:
   <p align="left">
   <a href="https://www.hw.ac.uk/" target="_blank"> <img src="https://imgs.search.brave.com/-PVc0toDZl3dcJepCkYNy2oJEhdbitxAJjy-almtkIk/rs:fit:1024:1024:1/g:ce/aHR0cDovL2Vybi1k/dWJhaS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMDcv/aGVyaW90LXdhdHQt/dW5pdmVyc2l0eS1s/b2dvLXBuZy10cmFu/c3BhcmVudC0xMDI0/eDEwMjQucG5n" alt="express" width="150" height="130"/> </a>
-  </p>
-      MSc Artificial intelligence.
+  </p>MSc Artificial intelligence.
       
       
   <p align="left">
