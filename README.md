@@ -31,15 +31,15 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-  ## 📖 Education
+  ## 📖 Education:
   <a href="https://www.hw.ac.uk/" target="_blank"> <img src="https://imgs.search.brave.com/-PVc0toDZl3dcJepCkYNy2oJEhdbitxAJjy-almtkIk/rs:fit:1024:1024:1/g:ce/aHR0cDovL2Vybi1k/dWJhaS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMDcv/aGVyaW90LXdhdHQt/dW5pdmVyc2l0eS1s/b2dvLXBuZy10cmFu/c3BhcmVudC0xMDI0/eDEwMjQucG5n" alt="express" width="150" height="130"/> </a>
-      MSc Artificial intelligence.
+      - MSc Artificial intelligence.
   
   <a href="https://www.epitech.eu/" target="_blank"> <img src="https://imgs.search.brave.com/phsrlS5jKBqHzHAczbFAnm-rT_2xYB1_SQe2XGL6fUE/rs:fit:1200:1200:1/g:ce/aHR0cDovL2VpcC5l/cGl0ZWNoLmV1LzIw/MTQvZXF1aWdlc3Rp/b24vaW1nL2VwaXRl/Y2gtbG9nby5wbmc" alt="express" width="150" height="60"/> </a>
-      Title of expert in information technologies.
+      - Title of expert in information technologies.
 
 
-## 📊 Stats
+## 📊 Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Le-Bars&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tristan-Le-Bars&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide=prs)
