@@ -37,8 +37,8 @@
   </p>
   
   MSc Artificial intelligence.
+  <br/>
   <br/>    
-      
   <p align="left">
   <a href="https://www.epitech.eu/" target="_blank"> <img src="https://imgs.search.brave.com/phsrlS5jKBqHzHAczbFAnm-rT_2xYB1_SQe2XGL6fUE/rs:fit:1200:1200:1/g:ce/aHR0cDovL2VpcC5l/cGl0ZWNoLmV1LzIw/MTQvZXF1aWdlc3Rp/b24vaW1nL2VwaXRl/Y2gtbG9nby5wbmc" alt="express" width="150" height="60"/> </a>
   </p>
