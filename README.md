@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Tristan.
-- 🌱 Im currently a 5th year computer science and AI student.
+# 👋 Hi, I’m Tristan, AI engineer/Data Scientist.
+
 
   ## 🔥 Languages:
 
