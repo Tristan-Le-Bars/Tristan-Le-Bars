@@ -1,11 +1,10 @@
-# 👋 Hi, I’m Tristan, AI engineer/Data Scientist.
+# 👋 Hi, I’m Tristan.
 
 
   ## 🔥 Languages:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>
     <a href="https://fr.wikipedia.org/wiki/C++" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" alt="express" width="45" height="45" /> </a> 
 </p>
 
@@ -20,6 +19,7 @@
      <a href="https://numpy.org/" target="_blank"> <img src="https://imgs.search.brave.com/aI5v-WAZu_8LW6dGyQVIOGalAr3psLQN69nVt7TK0h8/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzMS5naXRodWJ1/c2VyY29udGVudC5j/b20vdS8yODgyNzY_/cz00MDAmdj00" alt="express" width="44" height="44" / > </a>
     <a href="https://matplotlib.org/" target="_blank"> <img src="https://imgs.search.brave.com/pCMuHD3VpRdr9nu0s3LaZOQ-k19xIWuBM6msms9E8OI/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL00vbWF0cGxv/dGxpYi1sb2dvLTc2/NzY4NzBBQzAtc2Vl/a2xvZ28uY29tLnBu/Zw" alt="express" width="44" height="44"/> </a>  
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a>
+  <a href="https://www.qt.io/" target="_blank"> <img src="https://imgs.search.brave.com/LE4gnWa_kaemun5p4wvWsoEacNZU5xbljOkzgDFvKoY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgxL1F0X2xvZ29f/bmVvbl8yMDIyLnN2/Zw.svg" alt="express" width="44" height="44"/> </a>
 </p>
 
   ## 🛠️ Tools and softwares:
