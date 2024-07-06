@@ -44,8 +44,3 @@
   </p>
       Title of expert in information technologies.
 
-## 📊 Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Le-Bars&theme=dark&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tristan-Le-Bars&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide=prs)
-
