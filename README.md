@@ -3,10 +3,7 @@
 
   ## 🔥 Languages:
 
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://fr.wikipedia.org/wiki/C++" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" alt="express" width="45" height="45" /> </a> 
-</p>
+![Languages](https://skillicons.dev/icons?i=python,cpp,sql&perline=5)
 
 
   ## ⭐️ Libraries and Frameworks:
@@ -24,12 +21,7 @@
 
   ## 🛠️ Tools and softwares:
 
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png" alt="express" width="44" height="44"/> </a>
-  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank"> <img src="https://imgs.search.brave.com/yl2rJ4iHuZrrPb30fmX0zRdc6XUnjq707NK5HG3f7H8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93aWtp/LnZpZGVvbGFuLm9y/Zy9pbWFnZXMvV2lu/ZG93c19sb2dvLnBu/Zw" alt="express" width="44" height="44"/> </a>
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://imgs.search.brave.com/-zc1381Xm8A_E-u6ZEqBDmViBG6fHamJ-oQ5zzC3zUo/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vZXhpdGNv/bmRpdGlvbi5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MDgvanVweXRlci1t/YWluLWxvZ28ucG5n/P3NzbD0x" alt="express" width="44" height="44"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+![Tools](https://skillicons.dev/icons?i=linux,windows,git,qt&perline=5)
 
   ## 📖 Education:
   <p align="left">
