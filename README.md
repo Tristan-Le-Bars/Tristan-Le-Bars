@@ -3,10 +3,12 @@
 
   ## 🔥 Languages:
 
-![Languages](https://skillicons.dev/icons?i=python,cpp,sql&perline=5)
+![Languages](https://skillicons.dev/icons?i=python,cpp,sql,fortran&perline=5)
 
 
   ## ⭐️ Libraries and Frameworks:
+
+![Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,&perline=5)
 
 <p align="left"> 
     <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
