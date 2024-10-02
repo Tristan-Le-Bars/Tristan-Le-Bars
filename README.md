@@ -3,7 +3,7 @@
 
   ## 🔥 Languages:
 
-![Languages](https://skillicons.dev/icons?i=python,cpp,mysql,fortran&perline=5)
+![Languages](https://skillicons.dev/icons?i=python,cpp,fortran&perline=5)
 
 
   ## ⭐️ Libraries and Frameworks:
@@ -13,7 +13,7 @@
 
   ## 🛠️ Tools and softwares:
 
-![Tools](https://skillicons.dev/icons?i=linux,windows,git,qt&perline=5)
+![Tools](https://skillicons.dev/icons?i=linux,windows,git,qt,docker&perline=5)
 
   ## 📖 Education:
   <p align="left">
